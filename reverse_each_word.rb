@@ -3,5 +3,4 @@ def reverse_each_word(sentence)
   sentence.each do |sentence|
     my_statements << "#{sentence}".reverse
   end
-  my_statements
 end
